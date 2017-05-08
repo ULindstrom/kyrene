@@ -1,0 +1,19 @@
+{
+  "name": "kyrene",
+  "version": "1.0.0",
+  "description": "json test",
+  "main": "index.js",
+  "scripts": {
+    "test": "hahaha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ULindstrom/kyrene.git"
+  },
+  "author": "Urban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULindstrom/kyrene/issues"
+  },
+  "homepage": "https://github.com/ULindstrom/kyrene#readme"
+}
