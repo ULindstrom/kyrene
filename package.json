@@ -1,19 +1,14 @@
 {
-  "name": "kyrene",
+  "name": "natours",
   "version": "1.0.0",
-  "description": "json test",
-  "main": "index.js",
+  "description": "Landing page for natours",
+  "main": "app.js",
   "scripts": {
-    "test": "hahaha"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/ULindstrom/kyrene.git"
-  },
-  "author": "Urban",
+  "author": "uffe",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ULindstrom/kyrene/issues"
-  },
-  "homepage": "https://github.com/ULindstrom/kyrene#readme"
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
 }
